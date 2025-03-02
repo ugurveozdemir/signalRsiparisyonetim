@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B77288E5-082D-4C0E-8310-26FD537C7C50}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77288E5-082D-4C0E-8310-26FD537C7C50}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77288E5-082D-4C0E-8310-26FD537C7C50}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77288E5-082D-4C0E-8310-26FD537C7C50}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77288E5-082D-4C0E-8310-26FD537C7C50}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77288E5-082D-4C0E-8310-26FD537C7C50}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efsocialmediadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efsocialmediadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efaboutdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efbookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efbookingdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efcontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efcontactdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\efdiscountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efdiscountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dataaccesslayer\\entityframework\\effeaturedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEB3902-574C-4C7E-BCDA-17BEE4965966}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\effeaturedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:06:08.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:05:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:04:12.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:03:27.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfTestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:00:24.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfSocialMediaDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfSocialMediaDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:59:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:58:22.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EfFeatureDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfFeatureDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfFeatureDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfFeatureDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfFeatureDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:57:27.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EfDiscountDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfDiscountDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfDiscountDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfDiscountDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfDiscountDal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:55:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfContactDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfContactDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:53:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:52:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfBookingDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfBookingDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfBookingDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfBookingDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfBookingDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:51:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfAboutDal.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfAboutDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:50:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABgAAACA/v////8owCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:44:33.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
