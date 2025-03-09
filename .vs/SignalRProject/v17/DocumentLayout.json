@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC2878D5-E611-4835-A629-4BE55757B9B6}|SignalR.DtoLayer\\SignalR.DtoLayer.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalr.dtolayer\\categorydto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2878D5-E611-4835-A629-4BE55757B9B6}|SignalR.DtoLayer\\SignalR.DtoLayer.csproj|solutionrelative:signalr.dtolayer\\categorydto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE53ADD8-B14F-420D-8AB9-0F0B6DBE998F}|SignalRApi\\SignalRApi.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalrapi\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE53ADD8-B14F-420D-8AB9-0F0B6DBE998F}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\mapping\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE53ADD8-B14F-420D-8AB9-0F0B6DBE998F}|SignalRApi\\SignalRApi.csproj|c:\\users\\ugurb\\source\\repos\\signalrproject\\signalrapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE53ADD8-B14F-420D-8AB9-0F0B6DBE998F}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UpdateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\CategoryDto\\UpdateCategoryDto.cs",
-              "RelativeDocumentMoniker": "SignalR.DtoLayer\\CategoryDto\\UpdateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\CategoryDto\\UpdateCategoryDto.cs",
-              "RelativeToolTip": "SignalR.DtoLayer\\CategoryDto\\UpdateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:52:44.92Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -51,15 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryMapping.cs",
-              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalRApi\\Mapping\\CategoryMapping.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Mapping\\CategoryMapping.cs",
-              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalRApi\\Mapping\\CategoryMapping.cs",
-              "RelativeToolTip": "SignalRApi\\Mapping\\CategoryMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ugurb\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:51:13.692Z",
+              "WhenOpened": "2025-03-09T15:08:21.401Z",
               "EditorCaption": ""
             }
           ]
