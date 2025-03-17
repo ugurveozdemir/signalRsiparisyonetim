@@ -176,3 +176,7 @@ C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\obj\Debug\net8.0\refint\Si
 C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\obj\Debug\net8.0\SignalRApi.pdb
 C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\obj\Debug\net8.0\SignalRApi.genruntimeconfig.cache
 C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\obj\Debug\net8.0\ref\SignalRApi.dll
+C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\bin\Debug\net8.0\SignalR.DtoLayer.dll
+C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\bin\Debug\net8.0\SignalR.DtoLayer.pdb
+C:\Users\ugurb\source\repos\SignalRProject\SignalRApi\obj\Debug\net8.0\SignalRApi.sourcelink.json

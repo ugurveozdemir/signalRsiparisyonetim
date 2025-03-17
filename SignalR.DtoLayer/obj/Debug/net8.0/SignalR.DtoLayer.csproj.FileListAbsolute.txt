@@ -9,3 +9,4 @@ C:\Users\ugurb\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\Sig
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\refint\SignalR.DtoLayer.dll
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.pdb
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\ref\SignalR.DtoLayer.dll
+C:\Users\ugurb\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.sourcelink.json

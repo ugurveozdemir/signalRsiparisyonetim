@@ -15,3 +15,4 @@ C:\Users\ugurb\source\repos\SignalRProject\SignalR.BusinessLayer\obj\Debug\net8.
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.BusinessLayer\obj\Debug\net8.0\refint\SignalR.BusinessLayer.dll
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.BusinessLayer\obj\Debug\net8.0\SignalR.BusinessLayer.pdb
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.BusinessLayer\obj\Debug\net8.0\ref\SignalR.BusinessLayer.dll
+C:\Users\ugurb\source\repos\SignalRProject\SignalR.BusinessLayer\obj\Debug\net8.0\SignalR.BusinessLayer.sourcelink.json

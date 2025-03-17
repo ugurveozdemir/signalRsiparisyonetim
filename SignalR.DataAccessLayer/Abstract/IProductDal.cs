@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace SignalR.DataAccessLayer.Abstract
 {
     public interface IProductDal : IGenericDal<Product>
-
     {
+        public List<Product> GetProductsWithCategories();
     }
 }

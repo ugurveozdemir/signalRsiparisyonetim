@@ -9,3 +9,4 @@ C:\Users\ugurb\source\repos\SignalRProject\SignalR.EntityLayer\obj\Debug\net8.0\
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.EntityLayer\obj\Debug\net8.0\refint\SignalR.EntityLayer.dll
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.EntityLayer\obj\Debug\net8.0\SignalR.EntityLayer.pdb
 C:\Users\ugurb\source\repos\SignalRProject\SignalR.EntityLayer\obj\Debug\net8.0\ref\SignalR.EntityLayer.dll
+C:\Users\ugurb\source\repos\SignalRProject\SignalR.EntityLayer\obj\Debug\net8.0\SignalR.EntityLayer.sourcelink.json
